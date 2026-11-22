@@ -1,6 +1,6 @@
 import "./globals.css";
 
-export const metadata = { title: "Jogo da Velha" };
+export const metadata = { title: "Clone Tabnews" };
 
 export default function RootLayout({ children }) {
   return (
