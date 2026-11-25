@@ -46,7 +46,11 @@ export default async function Home() {
           "Não foi possível carregar o total de conteúdos publicados no TabNews."
         )}
       </p>
-      <a href="https://www.tabnews.com.br" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://www.tabnews.com.br"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         Acesse o TabNews oficial →
       </a>
     </main>

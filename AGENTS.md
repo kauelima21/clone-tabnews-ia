@@ -17,6 +17,9 @@ npm install
 npm run dev     # servidor de desenvolvimento (porta 3000)
 npm run build
 npm run start
+npm run lint          # ESLint (eslint-config-next + eslint-config-prettier)
+npm run format        # formata os arquivos com o Prettier
+npm run format:check  # verifica a formatação sem alterar arquivos
 ```
 
 ## Convenções

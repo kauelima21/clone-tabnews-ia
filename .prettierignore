@@ -1,0 +1,4 @@
+# Skills de terceiros instaladas para os agentes (mantidas como no original)
+.agents
+.claude
+skills-lock.json
